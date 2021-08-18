@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @meharshiltank
+- 👋 Hi, I’m Harshil Tank
 - 👀 I’m interested in ... Cyber Security, Ethical Hacking, Neworking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://twitter.com/harshil_tannkk
 
 <!---
